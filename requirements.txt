@@ -1,0 +1,6 @@
+urllib
+PyMuPDF 
+wget
+pandas
+requests
+beautifulsoup4
